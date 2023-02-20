@@ -58,3 +58,4 @@ public class Questions {
         // Return the starting or ending index of the target element based on the value of findStartIndex.
         return ans;
     }
+}

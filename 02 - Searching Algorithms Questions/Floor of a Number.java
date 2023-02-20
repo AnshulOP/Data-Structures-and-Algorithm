@@ -54,3 +54,4 @@ public class Questions {
         // immediately smaller than the target element.
         return arr[end];
     }
+}

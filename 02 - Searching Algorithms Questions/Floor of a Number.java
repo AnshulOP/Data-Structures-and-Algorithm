@@ -4,7 +4,7 @@ public class Questions {
     public static void main(String[] args) {
         int[] arr = {12,34,241,645,786,853,932,988};
       
-        System.out.println(Ceiling(arr, 645);
+        System.out.println(Floor(arr, 645);
     }
                            
     static int Floor(int[] arr, int target) {

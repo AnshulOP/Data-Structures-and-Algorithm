@@ -5,7 +5,7 @@
 //Each book should be allocated to a student.
 // allocation should be in a contiguous manner.
  
-// You have to allocate the books to ‘m’ students such that the maximum number of pages assigned to a student is minimum.
+// You have to allocate the books to ‘m’ students such that the maximum number of pages assigned to a student is minimum
 
 public class Questions {
     public static void main(String[] args) {
@@ -14,7 +14,7 @@ public class Questions {
         System.out.println(allocateBooks(arr, 4, 2));
     }
   
-    // The function takes an array of book pages as input, along with the total number of books (n) and the number of students (m) 
+    // The function takes an array of book pages as input, along with the total number of books (n) and the number of students (m)
    static int allocateBooks(int[] arr, int n, int m) {
       // Initialize start and end points for binary search
       int start = 0;
